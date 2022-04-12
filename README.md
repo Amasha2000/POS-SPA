@@ -12,6 +12,7 @@ Main Functions are,
  - Add Items to Cart
  - Place Order and Manage Discounts
  - Check Out Order
+ - Prevent Focusing when Press the Tab
  
  All pages are responsive.
  
