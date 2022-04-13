@@ -1,6 +1,6 @@
 # POS System-SPA(Single Page Application)🏪
 
-This is a Single Page Application for a POS Website.
+This is a Single Page Application for a In Memory POS Website.
 
 Main Functions are,
  - Manage Customers
